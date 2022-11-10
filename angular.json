@@ -104,8 +104,8 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "baseHref": "/",
-          "name": "liang",
-          "email": "p11922003@csie.ntu.edu.tw"
+          "name": "liang-nai-yun",
+          "email": "ny.liang.tw@gmail.com"
         }
       }
     }
