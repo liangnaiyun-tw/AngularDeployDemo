@@ -100,8 +100,17 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "baseHref": "/",
+          "name": "liang",
+          "email": "p11922003@csie.ntu.edu.tw"
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "c6d8642c-0d21-4937-b9d8-ea7e48db2e07"
   }
 }
