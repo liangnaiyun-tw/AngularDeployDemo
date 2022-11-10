@@ -103,7 +103,7 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "baseHref": "/",
+          "baseHref": "https://github.com/liangnaiyun-tw/AngularDeployDemo.git",
           "name": "liang-nai-yun",
           "email": "ny.liang.tw@gmail.com"
         }
